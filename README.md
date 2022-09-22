@@ -3,7 +3,7 @@ This is an official implementation of:
 
 Zhiyi Gao, et al. Learning Using Privileged Information for Zero-Shot Action Recognition, ACCV, 2022. [Arxiv Version](https://arxiv.org/abs/2206.08632)
 
-**Note**: This is a preliminary release, but We feel that it would be better to first put the code out here.
+**Note**: This is a preliminary release, but we feel that it would be better to first put the code out here.
 # Install
 ## Requirements
 
