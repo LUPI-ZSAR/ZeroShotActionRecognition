@@ -11,12 +11,15 @@ Zhiyi Gao, et al. Learning Using Privileged Information for Zero-Shot Action Rec
 
 ## ZSAR Pretrained Models
 
+The R(2+1)D models, used in the paper, can be downloaded [here](https://drive.google.com/drive/folders/1mXybSSZk5FtLzf5Vc5KX6WbhtPeXXzeI?usp=sharing)
+
 ## Get the word2vec model
 
 ```
 sudo chmod + assets/download_word2vec.sh
 ./assets/download_word2vec.sh
 ```
+or can be downloaded [here](https://drive.google.com/drive/folders/1YIm6zIMBU7dP40nDSimurZVXNpfcRrUw?usp=sharing)
 # Training
 
 
