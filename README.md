@@ -16,7 +16,6 @@ Zhiyi Gao, et al. Learning Using Privileged Information for Zero-Shot Action Rec
 ```
 sudo chmod + assets/download_word2vec.sh
 ./assets/download_word2vec.sh
-
 ```
 # Training
 
