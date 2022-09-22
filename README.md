@@ -10,6 +10,12 @@ Zhiyi Gao, et al. Learning Using Privileged Information for Zero-Shot Action Rec
 Run install.sh to get the uncommon libraries (faiss, tensorboardx, joblib) and the latest version of pytorch compatible with cuda 9.2.
 ## Getting datasets
 
+OlympicSports can be downloaded [here](http://vision.stanford.edu/Datasets/OlympicSports/)
+
+HMDB51 can be downloaded [here](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads)
+
+UCF101 can be downloaded [here](https://www.crcv.ucf.edu/research/data-sets/ucf101/)
+
 ## Grt R(2+1)D Pretrained Model
 
 The R(2+1)D models, used in the paper, can be downloaded [here](https://drive.google.com/drive/folders/1mXybSSZk5FtLzf5Vc5KX6WbhtPeXXzeI?usp=sharing)
