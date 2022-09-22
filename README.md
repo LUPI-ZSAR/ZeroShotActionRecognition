@@ -10,11 +10,11 @@ Zhiyi Gao, et al. Learning Using Privileged Information for Zero-Shot Action Rec
 Run `install.sh` to get the uncommon libraries (faiss, tensorboardx, joblib) and the latest version of pytorch compatible with cuda 9.2.
 ## Getting datasets
 
-OlympicSports can be downloaded [here](http://vision.stanford.edu/Datasets/OlympicSports/)
+`OlympicSports` can be downloaded [here](http://vision.stanford.edu/Datasets/OlympicSports/)
 
-HMDB51 can be downloaded [here](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads)
+`HMDB51` can be downloaded [here](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads)
 
-UCF101 can be downloaded [here](https://www.crcv.ucf.edu/research/data-sets/ucf101/)
+`UCF101` can be downloaded [here](https://www.crcv.ucf.edu/research/data-sets/ucf101/)
 
 ## Grt R(2+1)D Pretrained Model
 
@@ -29,7 +29,7 @@ sudo chmod + assets/download_word2vec.sh
 or can be downloaded [here](https://drive.google.com/drive/folders/1YIm6zIMBU7dP40nDSimurZVXNpfcRrUw?usp=sharing)
 ## Get BiT Model
 
-The BiT models, used in the paper, can be downloaded [here](https://drive.google.com/drive/folders/1u50fVwWnT-fAg983TGXJ2XxEfmc9QRPE?usp=sharing)
+The `BiT models`, used in the paper, can be downloaded [here](https://drive.google.com/drive/folders/1u50fVwWnT-fAg983TGXJ2XxEfmc9QRPE?usp=sharing)
 
 # Training
 
