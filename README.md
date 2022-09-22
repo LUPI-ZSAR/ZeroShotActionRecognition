@@ -7,6 +7,7 @@ Zhiyi Gao, et al. Learning Using Privileged Information for Zero-Shot Action Rec
 # Install
 ## Requirements
 
+Run install.sh to get the uncommon libraries (faiss, tensorboardx, joblib) and the latest version of pytorch compatible with cuda 9.2.
 ## Getting datasets
 
 ## Grt R(2+1)D Pretrained Model
