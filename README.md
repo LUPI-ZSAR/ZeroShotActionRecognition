@@ -7,7 +7,7 @@ Zhiyi Gao, et al. Learning Using Privileged Information for Zero-Shot Action Rec
 # Install
 ## Requirements
 
-Run install.sh to get the uncommon libraries (faiss, tensorboardx, joblib) and the latest version of pytorch compatible with cuda 9.2.
+Run `install.sh` to get the uncommon libraries (faiss, tensorboardx, joblib) and the latest version of pytorch compatible with cuda 9.2.
 ## Getting datasets
 
 OlympicSports can be downloaded [here](http://vision.stanford.edu/Datasets/OlympicSports/)
@@ -33,6 +33,7 @@ The BiT models, used in the paper, can be downloaded [here](https://drive.google
 
 # Training
 
+Run `main.py` in the directory of the corresponding config path
 
 # Citation
 If you find this repository useful, please cite our paper:
